@@ -1,0 +1,18 @@
+<?xml 
+	version = "1.0" 
+	encoding = "UTF-8" 
+	standalone = "no" 
+?>
+
+<!DOCTYPE address SYSTEM "address.dtd">
+
+<address>
+
+
+  <name>Tom Peters</name>
+
+  <company>Fidelity Investments</company>
+
+  <phone>710-181-1910</phone>
+  
+</address>
